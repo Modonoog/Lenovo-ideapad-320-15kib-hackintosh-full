@@ -1,0 +1,1 @@
+# Lenovo-ideapad-320-15kib-hackintosh-full
