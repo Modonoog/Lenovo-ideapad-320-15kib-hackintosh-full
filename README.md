@@ -15,7 +15,7 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 
 <br/>
 
-<img src="assets/sonoma.png">
+<img src="sonoma.png">
     
 ## :computer: Hardware:
 
